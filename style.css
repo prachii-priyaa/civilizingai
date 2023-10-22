@@ -118,7 +118,6 @@ li {
 /* Media queries for responsiveness */
 @media (max-width: 768px) {
     .container_1, .container_2 {
-        width: 100%; /* Full width on smaller screens */
-        margin: 0; 
+        width: 100%; /* Full width on smaller screens */ 
     }
 }
